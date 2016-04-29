@@ -1,2 +1,1 @@
-# arcadia-unity.github.io
-Arcadia Website
+# The Arcadia Website

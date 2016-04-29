@@ -1,0 +1,10 @@
+# Site settings
+title: Arcadia, Clojure in Unity3D
+tag_text: Arcadia
+description: Arcadia is the integration of the Clojure programing language and the Unity3D game engine.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

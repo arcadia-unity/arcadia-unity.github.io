@@ -40,7 +40,7 @@ Arcadia is still in pre-alpha and highly experimental. We are working towards a 
 ![](https://img.itch.io/aW1hZ2UvNDkwODIvMjE0NTMzLmpwZw==/347x500/ssFslg.jpg)
 
 ## Legal
-Copyright © 2014 [Tims Gardner](https://github.com/timsgardner) and [Ramsey Nasser](https://github.com/nasser)
+Copyright © 2014 - 2017 [Tims Gardner](https://github.com/timsgardner) and [Ramsey Nasser](https://github.com/nasser)
 
 Provided under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 

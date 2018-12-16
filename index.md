@@ -4,7 +4,7 @@ layout: default
 
 [GitHub](https://github.com/arcadia-unity/Arcadia) &bull; [Gitter](https://gitter.im/arcadia-unity/Arcadia) &bull; [Twitter](http://twitter.com/arcadiaunity)
 
-[Arcadia](https://github.com/arcadia-unity/Arcadia) is the integration of the [Clojure programing language](http://clojure.org) and the [Unity3D](http://unity3d.com) game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool.
+[Arcadia](https://github.com/arcadia-unity/Arcadia) is the integration of the [Clojure programming language](http://clojure.org) and the [Unity3D](http://unity3d.com) game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool.
 
 ## Status
 

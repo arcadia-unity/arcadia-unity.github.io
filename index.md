@@ -6,10 +6,6 @@ layout: default
 
 [Arcadia](https://github.com/arcadia-unity/Arcadia) is the integration of the [Clojure programming language](http://clojure.org) and the [Unity3D](http://unity3d.com) game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool.
 
-## Status
-
-Arcadia is still in pre-alpha and highly experimental. We are working towards a coherent first release, but we're not quite there yet. Clone [the repository](https://github.com/arcadia-unity/Arcadia) into a Unity project to use it and join [the community](https://gitter.im/arcadia-unity/Arcadia) discussion, but expect things to break and be undocumented for now.
-
 ## Videos
 
 <iframe height="400" width="100%" src="https://www.youtube.com/embed/_p0co13WYPI"></iframe>
